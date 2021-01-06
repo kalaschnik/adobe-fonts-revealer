@@ -10,13 +10,13 @@ This script copies all activated font files to your Downloads directory and rena
 For example, the file `.17969.otf` becomes `MinionPro-BoldCnItCapt.otf` (which includes all cues for font varition, weight, etc.).
 
 ## Execution
-You need to have lcdf-typetools installed.
+You need to have `lcdf-typetools` installed (< 1mb). If you have texlive installed, you might already have that tool available.
 
-1. Install lcdf-typetools (< 1mb)
+1. Install `lcdf-typetools`
 - macOS (brew):
   - `brew install lcdf-typetools`
 - Windows (WSL, to do)
-  - sudo apt-get install -y lcdf-typetools
+  - `sudo apt-get install -y lcdf-typetools`
 
 2. Run `bash reveal.sh`
 

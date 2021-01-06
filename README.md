@@ -10,9 +10,9 @@ This script copies all activated font files to your Downloads directory and rena
 For example, the file `.17969.otf` becomes `MinionPro-BoldCnItCapt.otf` (which includes all cues for font varition, weight, etc.).
 
 ## Demo
-<center>
+<p align="center">
   <img src="adobe-font-revealer.gif" width="450" />
-</center>
+</p>
 
 ## Execution
 You need to have `lcdf-typetools` installed (< 1mb). If you have `texlive` installed, you might already have that tool available.

@@ -30,4 +30,4 @@ do
   echo "$file\t⮕\t$fontName.otf"
 done
 
-echo "🚀 DONE! Check your 'FONTS' directory within Downloads"
+echo "🚀 DONE! Check your 'FONTS' directory within Downloads if you selected Option 2 (Copy)".

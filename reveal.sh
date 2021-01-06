@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo "❦ Font Revealer for Adobe Creative Cloud ❦"
 
@@ -27,7 +27,7 @@ do
   fi
 
   # echo changes:
-  echo -e "$file\t⮕\t$fontName.otf"
+  echo "$file\t⮕\t$fontName.otf"
 done
 
 echo "🚀 DONE! Check your 'FONTS' directory within Downloads"

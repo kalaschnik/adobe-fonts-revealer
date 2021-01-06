@@ -1,4 +1,4 @@
-# Adobe Font Revealer
+# Adobe Fonts Revealer
 
 > This shell script copies all activated creative cloud fonts (otf) to your Downloads directory
 

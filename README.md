@@ -15,7 +15,7 @@ For example, the file `.17969.otf` becomes `MinionPro-BoldCnItCapt.otf` (which i
 </p>
 
 ## Execution
-You need to have `lcdf-typetools` installed (< 1mb). If you have `texlive` installed, you might already have that tool available.
+You need to have `lcdf-typetools`[1] installed (< 1mb). If you have `texlive` installed, you might already have that tool available.
 
 1. Install `lcdf-typetools`
 - macOS (brew):
@@ -25,3 +25,4 @@ You need to have `lcdf-typetools` installed (< 1mb). If you have `texlive` insta
 
 2. Run `sh reveal.sh` in your Terminal
 
+[1] [lcdf-typetools](https://github.com/kohler/lcdf-typetools) by [Eddie Kohler](https://github.com/kohler)

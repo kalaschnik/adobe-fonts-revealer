@@ -1,4 +1,4 @@
-# Adobe Fonts Revealer
+# ⚜️ Adobe Fonts Revealer
 
 > Copy Adobe Fonts (OTF) to your Downloads directory
 

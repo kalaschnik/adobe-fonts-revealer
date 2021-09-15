@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 echo "❦ Font Revealer for Adobe Creative Cloud ❦"
 

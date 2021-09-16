@@ -25,6 +25,6 @@ You need to have `lcdf-typetools`[1] installed (< 1mb). If you have `texlive` in
 - Windows (WSL, to do)
   - `sudo apt-get install -y lcdf-typetools`
 
-2. Run `sh reveal.sh` in your Terminal
+2. Run `sh reveal` in your Terminal
 
 [1] [lcdf-typetools](https://github.com/kohler/lcdf-typetools) by [Eddie Kohler](https://github.com/kohler)

@@ -1,4 +1,4 @@
-# ⚜️ Adobe Fonts Revealer
+# ❦ Adobe Fonts Revealer
 
 # ![](https://img.shields.io/static/v1?message=macOS%20&labelColor=000000&color=3B3B3B&label=%20&style=for-the-badge&logo=apple) ![](https://img.shields.io/static/v1?message=Windows%20-%20TODO🕐&labelColor=0078D6&color=3B3B3B&label=%20&style=for-the-badge&logo=windows)
 

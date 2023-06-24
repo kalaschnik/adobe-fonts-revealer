@@ -1,6 +1,6 @@
 # ❦ Adobe Fonts Revealer
 
-> Copy Adobe Fonts (OTF) to your Downloads directory (**macOS**)
+> Copy Adobe Fonts (OTF) to your Downloads directory (**macOS**)  
 > **Windows?** Check out pawalan’s PowerShell solution here: https://github.com/pawalan/adobe-fonts-liberator
 
 **Problem**  

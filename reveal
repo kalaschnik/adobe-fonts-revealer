@@ -11,11 +11,10 @@ select dce in "Dry-Run" "Copy" "Exit"; do
     esac
 done
 
-cd $HOME/Library/Application\ Support/Adobe/CoreSync/plugins/livetype/.r/
-
+cd $HOME/Library/Application\ Support/Adobe/CoreSync/plugins/livetype/
 # grab all otf dot files (adjust to your needs)
-for file in .*.otf
-do  
+find . -type f -iname "*.otf" | while read file
+do
   # the "Postscript name:" does not contain spaces. good for file names.
   fontName=`otfinfo --info ${file} | fgrep "PostScript name:" | grep -oE "[^ ]+$"`
   
